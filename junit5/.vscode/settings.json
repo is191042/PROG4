@@ -1,0 +1,10 @@
+{
+    "java.configuration.runtimes": [
+        {
+            "name": "OpenJDK-15",
+            "path": "/Library/Java/JavaVirtualMachines/adoptopenjdk-15-openj9.jdk/Contents/Home",
+            "default": true
+          }
+    ],
+    "java.configuration.updateBuildConfiguration": "automatic",
+}
